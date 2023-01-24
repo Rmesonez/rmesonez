@@ -31,7 +31,9 @@ Contacto rmesonez@gmail.com
 
 
 ## 🛠 Skills
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="100px" height="70px"
+<p>
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="100px" height="70px"
+</p>
 
 Aprendiendo Reactjs
 
