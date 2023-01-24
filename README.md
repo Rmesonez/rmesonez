@@ -6,7 +6,7 @@ Developer Apasionado
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm studing for full stack developer...
 
 Desde hace 6 meses inicie en esta comunidad 
 estudio actualmente en Academlo
@@ -18,8 +18,9 @@ FreeCodeCamp
 Udemy
 CoderHouse
 
-Trabajo freelance
+freelancer y trabajador remote
 Contacto rmesonez@gmail.com
+telefono +502 54135883
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldomesonez)
