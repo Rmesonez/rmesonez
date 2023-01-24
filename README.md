@@ -36,7 +36,7 @@ Contacto rmesonez@gmail.com
 </p>
 
 <p>Aprendiendo 
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50px" height="50px">
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="30px" height="30px">
 </p>
 
 
