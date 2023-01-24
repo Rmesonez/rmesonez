@@ -24,14 +24,13 @@ Contacto rmesonez@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldomesonez)
 
-[![logo-GitHub](https://rmesonez.github.io/Portafolio-web/index.html)
+[![GitHub](https://rmesonez.github.io/Portafolio-web/index.html)
 
 
 ## 🛠 Skills
+Html5, Css3, Javascript
 
-![kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671 680718971548434364753](https://user-images.githubusercontent.com/115722031/214195667-ed2067f1-0c2a-4ff6-afee-44e3f6691d66.jpg)
-
-Aprendiendo ![590-5903330_reactjs-logo-react-js-transparent-icon-hd-png]
+Aprendiendo Reactjs
 
 
 
