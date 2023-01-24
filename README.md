@@ -24,7 +24,10 @@ Contacto rmesonez@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldomesonez)
 
-[![Github](https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg)](https://rmesonez.github.io/Portafolio-web/index.html)
+<a href="https://rmesonez.github.io/Portafolio-web/index.html" target="_blank">
+  <img src="https://i.pinimg.com/736x/b5/1b/78/b51b78ecc9e5711274931774e433b5e6.jpg" width="30px" height="30px">
+</a>
+
 
 
 ## 🛠 Skills
