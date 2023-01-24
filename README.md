@@ -24,7 +24,7 @@ Contacto rmesonez@gmail.com
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reinaldomesonez)
 
-[![Github](https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon-thumbnail.png)](https://rmesonez.github.io/Portafolio-web/index.html)
+[![Github](https://w7.pngwing.com/pngs/857/611/png-transparent-gi)](https://rmesonez.github.io/Portafolio-web/index.html)
 
 
 ## 🛠 Skills
