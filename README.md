@@ -6,9 +6,9 @@ Developer Apasionado
 
 
 ## 🚀 About Me
-I'm studing for full stack developer...
+I'm full stack developer...
 
-Desde hace 6 meses inicie en esta comunidad 
+Desde hace 1 año inicie en esta comunidad 
 estudio actualmente en Academlo
 Web Developer Full Stack
 ya he hecho cursos en 
